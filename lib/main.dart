@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
   ChewieController? chewieController;
   final videoPlayerController = VideoPlayerController.networkUrl(
     Uri.parse(
-      'https://hitaldev.ir/videos/1',
+      'https://dl.hitaldev.com/videos/imagepicker.mp4',
     ),
   );
 
